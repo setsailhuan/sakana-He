@@ -14,7 +14,7 @@
 
 请按以下步骤安装：
 
-1. 打开本项目 GitHub 页面的 [Releases](https://github.com/your-username/drink-app/releases) 标签页。
+1. 打开本项目 GitHub 页面的 [Releases](https://github.com/setsailhuan/sakana-He/releases) 标签页。
 2. 下载最新版本的 `apk` 文件。
 3. 允许“安装未知来源应用”后进行安装即可。
 
